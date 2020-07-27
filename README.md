@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Darek - Front End Developer working with `html`, `css` and `javascript`
 <!--
 **dpobozniak/dpobozniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
