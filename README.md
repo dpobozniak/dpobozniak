@@ -1,6 +1,8 @@
+<img align="right" src="https://github.com/dpobozniak/dpobozniak/blob/master/darek_photo.svg" alt="Illustration of Darek coding" width="400" height="400" />
+
 ### Hi there 👋
 
-I'm Darek - Front End Developer working with `html`, `css` and `javascript`
+I'm Darek - Front End Developer having strong experience with standards-compliant, semantic HTML and CSS, experience in Sass and CSS patterns, as well as strong, framework-agnostic knowledge of JavaScript.
 <!--
 **dpobozniak/dpobozniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
