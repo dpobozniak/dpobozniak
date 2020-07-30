@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/dpobozniak/dpobozniak/blob/master/darek_photo.svg" alt="Illustration of Darek coding" width="400" height="400" />
+<img align="right" style="margin-right: 2em;" src="https://github.com/dpobozniak/dpobozniak/blob/master/darek_photo.svg" alt="Illustration of Darek coding" width="200" height="200" />
 
 ### Hi there 👋
 
